@@ -51,7 +51,7 @@ We love to develop hard and software that users like to use, where their interac
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/laravel.svg" alt="Laravel" style="max-width: 147px; vertical-align:top; margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/symfony.svg" alt="Symfony" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/echo.svg" alt="Echo" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">

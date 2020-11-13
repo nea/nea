@@ -19,8 +19,8 @@
 </a>
 <br />
 
-### //Pragmatic Software-Solutions
-[elipZis](https://elipZis.com) is a technology startup located in the hanseatic city of [Bremen](https://www.bremen.de/) that creates software solutions for real needs without a dogmatic framework or technology setup.
+### //Get IT done!
+[elipZis](https://elipZis.com) is an IT-Agency located in the hanseatic city of [Bremen](https://www.bremen.de/) that creates software solutions for real needs without a dogmatic framework or technology setup.
 
 We love to develop hard and software that users like to use, where their interaction matters. We want to power businesses and individuals to improve their daily (work) life with solutions that are pervasively helping the client.
 
